@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# credentials
+biofs-v1-936568fca76c.json
+
 # C extensions
 *.so
 
